@@ -19,7 +19,7 @@
  
 <div> 
   <a href = "mailto:eng.mec.mario.rocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mario-gustavo-ribeiro-rocha-284379148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mario-gustavo-ribeiro-rocha-284379148/" target="_blank"><img src="https://scontent.ftow4-1.fna.fbcdn.net/v/t1.18169-9/17795796_1664046893611738_6628524405997065708_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHh2lBX-4GwuRq2qjPXsJoIQ0O73D839wlDQ7vcPzf3CWHIJe4shLIChhDmMAmMqRN5FYPsT794KMZaO7U9-wph&_nc_ohc=1AelUJGyFtsAX9j3LAY&_nc_oc=AQl7Jw2BU99TxeSrQCpCIUwQwP0xGLRKe2ytuCiDn-2Q60HccouwMspz5O3V8jrbKEQ&tn=t1SxxI1CZT8lNyql&_nc_ht=scontent.ftow4-1.fna&oh=00_AT-ahQMFxcokfuJidiZ1ZUx0pfpj1HaX5WyFTao9Pmti7g&oe=61FC33E2" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
