@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.ftow4-1.fna.fbcdn.net/v/t1.18169-9/17795796_1664046893611738_6628524405997065708_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHh2lBX-4GwuRq2qjPXsJoIQ0O73D839wlDQ7vcPzf3CWHIJe4shLIChhDmMAmMqRN5FYPsT794KMZaO7U9-wph&_nc_ohc=1AelUJGyFtsAX9j3LAY&_nc_oc=AQl7Jw2BU99TxeSrQCpCIUwQwP0xGLRKe2ytuCiDn-2Q60HccouwMspz5O3V8jrbKEQ&tn=t1SxxI1CZT8lNyql&_nc_ht=scontent.ftow4-1.fna&oh=00_AT-ahQMFxcokfuJidiZ1ZUx0pfpj1HaX5WyFTao9Pmti7g&oe=61FC33E2width=676&height=676">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
