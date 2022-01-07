@@ -25,8 +25,8 @@
   ##
  
 <div> 
-  <a href = "mailto:eng.mec.mario.rocha@gmail.com"><img height="60" width="80" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mario-gustavo-ribeiro-rocha-284379148/" target="_blank"><img height="60" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:eng.mec.mario.rocha@gmail.com"><img height="60" width="120" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mario-gustavo-ribeiro-rocha-284379148/" target="_blank"><img height="60" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/engmario97/engmario97/blob/output/github-contribution-grid-snake.svg)
  
